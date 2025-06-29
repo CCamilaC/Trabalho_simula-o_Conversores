@@ -23,9 +23,9 @@ As curvas geradas são:
 - **Escorregamento vs Potência Mecânica**
 - **Corrente do Estator vs Potência Mecânica**
 
-## 🚀 Como executar
+## Como executar
 
-1. Instale as dependências:
+1. No caso dos códigos em python, instale as dependências:
 ```bash
 pip install numpy matplotlib
 
